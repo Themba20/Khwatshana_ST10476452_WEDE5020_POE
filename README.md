@@ -1,11 +1,10 @@
 # Mswenko Home & Lifestyle Store
 
 ## Student Information
-- Student name: [INSERT FULL NAME]
-- Student number: [INSERT STUDENT NUMBER]
-- Group: [INSERT GROUP]
-- Subject: [INSERT SUBJECT NAME]
-- Subject code: [INSERT SUBJECT CODE]
+- Student name: [Themba Khwatshana]
+- Student number: [ST10476452]
+- Subject: [WEB DEVELOPMENT]
+- Subject code: [WEDE5020]
 
 ## Project Overview
 Mswenko Home & Lifestyle Store is a fictional South African retail organisation for the web-development Portfolio of Evidence. The website serves customers in Pretoria and Johannesburg.
