@@ -77,6 +77,19 @@ MDN Web Docs. 2026. HTML elements reference. [Online]. Available at: https://dev
 
 Unsplash. 2026. Unsplash License. [Online]. Available at: https://help.unsplash.com/en/collections/1463188-unsplash-license [Accessed 14 August 2026].
 
+Part 2 References
+MDN Web Docs (2026) What is CSS? Available at: MDN Web Docs - What is CSS? (Accessed: 18 September 2026).
+
+MDN Web Docs (2026) Getting started with CSS. Available at: MDN Web Docs - Getting started with CSS (Accessed: 18 September 2026).
+
+MDN Web Docs (2026) Introduction to CSS layout. Available at: MDN Web Docs - Introduction to CSS layout (Accessed: 18 September 2026).
+
+MDN Web Docs (2026) Responsive design. Available at: MDN Web Docs - Responsive design (Accessed: 18 September 2026).
+
+W3Schools (2026) CSS Introduction. Available at: W3Schools - CSS Introduction (Accessed: 18 September 2026).
+
+W3Schools (2026) Responsive Web Design. Available at: W3Schools - Responsive Web Design (Accessed: 18 September 2026).
+
 W3C. 2026. H101: Using semantic HTML elements to identify regions of a page. [Online]. Available at: https://www.w3.org/WAI/WCAG21/Techniques/html/H101.html [Accessed 14 August 2026].
 
 web.dev. 2020. Accessible responsive design. [Online]. Available at: https://web.dev/articles/accessible-responsive-design [Accessed 14 August 2026].
